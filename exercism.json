@@ -1,0 +1,17 @@
+{
+  "data": {"values": [
+      {"Date": "2/15", "Solutions mentored": 26},
+      {"Date": "2/22", "Solutions mentored": 16},
+      {"Date": "2/29", "Solutions mentored": 19},
+      {"Date": "3/07", "Solutions mentored": 11},
+      {"Date": "3/14", "Solutions mentored": 15},
+      {"Date": "3/21", "Solutions mentored": 44},
+      {"Date": "3/28", "Solutions mentored": 98},
+      {"Date": "4/4", "Solutions mentored": 97}
+    ]},
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "ordinal"},
+    "y": {"field": "Solutions mentored", "type": "quantitative"}
+  }
+}
